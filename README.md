@@ -4,18 +4,18 @@ A powerful graph visualization plugin for SiYuan Notes, inspired by Obsidian's g
 
 ---
 
-**Author:** [@astrojorn](https://github.com/astrojorn)
+**Author:**  [@astrojorn](https://github.com/astrojorn)
 
-**License:** MIT — This plugin is open source. Feel free to use, modify, and distribute under the terms of the MIT license.
+**License:**  MIT — This plugin is open source. Feel free to use, modify, and distribute under the terms of the MIT license.
 
-**Repository:** [GitHub](https://github.com/Astrojorn/redstone-graph-view)
+**Repository:**  [GitHub](https://github.com/Astrojorn/redstone-graph-view)
 
 ---
 
 ## Features / Recursos / 功能 / Características / Возможности
 
-
 ### English
+
 - **Cluster detection** — automatically groups related pages by community
 - **Color-coded clusters** — each community gets a distinct color
 - **Database nodes** — databases appear as diamonds (◆) connected to their member pages
@@ -33,8 +33,8 @@ A powerful graph visualization plugin for SiYuan Notes, inspired by Obsidian's g
 - **Customizable keyboard shortcut** — Alt+G or Alt+Shift+G
 - **5 languages** — English, 中文, Português, Español, Русский
 
-
 ### Português
+
 - **Detecção de clusters** — agrupa automaticamente páginas relacionadas por comunidade
 - **Clusters coloridos** — cada comunidade recebe uma cor distinta
 - **Nós de banco de dados** — bancos de dados aparecem como diamantes (◆) conectados às suas páginas
@@ -52,8 +52,8 @@ A powerful graph visualization plugin for SiYuan Notes, inspired by Obsidian's g
 - **Atalho personalizável** — Alt+G ou Alt+Shift+G
 - **5 idiomas** — English, 中文, Português, Español, Русский
 
-
 ### Español
+
 - **Detección de clusters** — agrupa automáticamente páginas relacionadas por comunidad
 - **Clusters coloreados** — cada comunidad recibe un color distinto
 - **Nodos de base de datos** — bases de datos aparecen como diamantes (◆)
@@ -72,6 +72,7 @@ A powerful graph visualization plugin for SiYuan Notes, inspired by Obsidian's g
 - **5 idiomas** — English, 中文, Português, Español, Русский
 
 ### 中文
+
 - **聚类检测** — 自动按社区对相关页面进行分组
 - **彩色聚类** — 每个社区获得不同的颜色
 - **数据库节点** — 数据库显示为菱形 (◆)
@@ -89,8 +90,8 @@ A powerful graph visualization plugin for SiYuan Notes, inspired by Obsidian's g
 - **可自定义快捷键** — Alt+G 或 Alt+Shift+G
 - **5种语言** — English, 中文, Português, Español, Русский
 
-
 ### Русский
+
 - **Обнаружение кластеров** — автоматическая группировка связанных страниц
 - **Цветные кластеры** — каждая группа получает свой цвет
 - **Узлы баз данных** — базы данных отображаются ромбами (◆)
@@ -111,7 +112,7 @@ A powerful graph visualization plugin for SiYuan Notes, inspired by Obsidian's g
 ## Installation / Instalação / Instalación / 安装 / Установка
 
 ```
-Copy the plugin folder to: {workspace}/data/plugins/obsidian-graph/
+Copy the plugin folder to: {workspace}/data/plugins/redstone-graph-view/
 ```
 
 Then restart SiYuan or go to **Settings → Marketplace → Installed** and enable the plugin.
@@ -120,27 +121,27 @@ Then restart SiYuan or go to **Settings → Marketplace → Installed** and enab
 
 ### Keyboard Shortcuts / Atalhos de teclado
 
-| Action | Default Shortcut |
-|--------|-----------------|
-| Open/Close Graph | `Alt+Shift+G` (or `Alt+G` when enabled in settings) |
-| Toggle Fullscreen | `Alt+Shift+F` |
+| Action            | Default Shortcut                |
+| ------------------- | --------------------------------- |
+| Open/Close Graph  | `Alt+Shift+G` (or `Alt+G` when enabled in settings) |
+| Toggle Fullscreen | `Alt+Shift+F`                                |
 
 ### Panel Controls
 
-| Button | Action |
-|--------|--------|
-| ⚙️ | Open settings (language, bar position, hide native graphs, shortcut) |
-| 📌 | Pin panel position and size (persists across sessions) |
-| ⛶ | Toggle fullscreen |
-| ✕ | Close panel |
+| Button | Action                                                               |
+| -------- | ---------------------------------------------------------------------- |
+| ⚙️   | Open settings (language, bar position, hide native graphs, shortcut) |
+| 📌     | Pin panel position and size (persists across sessions)               |
+| ⛶     | Toggle fullscreen                                                    |
+| ✕     | Close panel                                                          |
 
 ### Graph Controls
 
 - **Search** — filter nodes by name
 - **Titles** — toggle node labels
 - **Arrows** — toggle directional arrows
-- **⊙ Local Graph** — show only current page connections
-- **↺ Reload** — refresh the graph
+-  **⊙ Local Graph** — show only current page connections
+-  **↺ Reload** — refresh the graph
 - **Dist** slider — link distance
 - **Cluster** slider — grouping force
 - **Repulsion** slider — node repulsion
@@ -180,4 +181,4 @@ SOFTWARE.
 
 ---
 
-**Made by [@astrojorn](https://github.com/astrojorn)** — contributions welcome!
+**Made by** **[@astrojorn](https://github.com/astrojorn)** — contributions welcome!
